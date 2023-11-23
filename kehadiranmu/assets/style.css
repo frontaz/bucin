@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  color: #f2ef44;
+}
+
+.container {
+  background-color: #ec44f2;
+  height: 100svh;
+}
+@media (max-width: 838px) {
+}
